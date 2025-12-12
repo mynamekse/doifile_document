@@ -1,0 +1,123 @@
+# Core Villagers (NPC หลักในหมู่บ้าน)
+- name: พ่ออุ้ยสอนจันทร์ (Por Oui Son)
+  role: Mentor/Sage
+  personality: ใจดี, รอบรู้, เคร่งประเพณี
+  description: ผู้สอนระบบฟาร์ม และเป็นที่เคารพของคนในหมู่บ้าน
+  is_romanceable: false
+
+- name: กำนันสิงห์ (Kamnan Sing)
+  role: Village Head
+  personality: ดุดัน, ยุติธรรม, เสียงดัง
+  description: ผู้นำหมู่บ้าน ดูแลความสงบเรียบร้อย มักมีเควสพัฒนาชุมชน
+  is_romanceable: false
+
+- name: ป้าบัว (Pa Bua)
+  role: Merchant
+  personality: ช่างคุย, ขี้งกนิดๆ, รู้ทุกเรื่อง
+  description: เจ้าของร้านขายของชำและรับซื้อของป่า แหล่งข่าวลือชั้นดี
+  is_romanceable: false
+
+- name: สล่าหนาน (Sala Nan)
+  role: Builder/Carpenter
+  personality: เงียบขรึม, จริงใจ, สูบบุหรี่ใบตองตึง
+  description: ช่างไม้ประจำหมู่บ้าน รับสร้างและอัปเกรดอาคารในฟาร์ม
+  is_romanceable: false
+
+- name: แม่อุ้ยสา (Mae Oui Sa)
+  role: Storyteller
+  personality: ลึกลับ, ขี้เล่น, ความจำดี
+  description: ผู้เฒ่าผู้แก่ที่รู้ตำนานผีปู่ย่าและประวัติศาสตร์ที่ถูกลืม
+  is_romanceable: false
+
+# Shops & Services (ร้านค้าและบริการ)
+- name: อ้ายคำ (Ai Kham)
+  role: Café Owner
+  personality: เป็นกันเอง, ทันสมัย, บ้ากาแฟ
+  description: เจ้าของร้านกาแฟ "ดอยบริว" รับซื้อเมล็ดกาแฟคุณภาพสูง
+  is_romanceable: false
+
+- name: หมอตำ (Mo Tam)
+  role: Herbalist/Doctor
+  personality: สุขุม, พูดน้อย, รักสะอาด
+  description: หมอยาแผนโบราณ ดูแลสุขภาพชาวบ้านและขายสมุนไพร
+  is_romanceable: true
+
+- name: ยายม่อน (Yai Mon)
+  role: Weaver/Clothier
+  personality: อารมณ์ดี, ชอบสอน, จุกจิกเรื่องผ้า
+  description: ช่างทอผ้าพื้นเมือง ขายชุดเสื้อผ้าและรับซื้อฝ้าย/ไหม
+  is_romanceable: false
+
+- name: ช่างเล็ก (Chang Lek)
+  role: Mechanic
+  personality: ห้าวๆ, เปื้อนน้ำมัน, พึ่งพาได้
+  description: ช่างซ่อมเครื่องจักรการเกษตรและมอเตอร์ไซค์
+  is_romanceable: true
+
+# Romanceable Characters (ตัวละครจีบได้)
+- name: น้องแก้ว (Kru Kaew)
+  role: Teacher
+  personality: อ่อนหวาน, รักวัฒนธรรม, เจ้าระเบียบ
+  description: ครูสาวสอนโรงเรียนบนดอย ชอบดอกไม้และขนมไทย
+  is_romanceable: true
+
+- name: ตะวัน (Tawan)
+  role: Tourist/Vlogger
+  personality: ร่าเริง, ขี้สงสัย, ติดโซเชียล
+  description: หนุ่มเมืองกรุงที่หนีงานมาพักใจ (เหมือนผู้เล่น) ชอบให้พาเที่ยว
+  is_romanceable: true
+
+- name: ฝ้าย (Fai)
+  role: Local Farmer
+  personality: แก่นแก้ว, สู้งาน, ตรงไปตรงมา
+  description: สาวชาวไร่รุ่นใหม่ไฟแรง คู่แข่งและเพื่อนสนิทของผู้เล่น
+  is_romanceable: true
+
+- name: โจ (Ranger Joe)
+  role: Forest Ranger
+  personality: รักธรรมชาติ, สันโดษ, แข็งแรง
+  description: เจ้าหน้าที่พิทักษ์ป่า ผู้ดูแลเขตรักษาพันธุ์สัตว์ป่าและน้ำตก
+  is_romanceable: true
+
+- name: มะลิ (Mali)
+  role: Florist/Artist
+  personality: ขี้อาย, ช่างฝัน, มือเย็น (ปลูกอะไรก็ขึ้น)
+  description: ศิลปินอิสระที่ชอบวาดรูปดอกไม้ มักเจอได้ตามทุ่งหญ้า
+  is_romanceable: true
+
+- name: ภูผา (Phu Pha)
+  role: Coffee Expert
+  personality: จริงจัง, Perfectionist, ปากหนัก
+  description: ผู้เชี่ยวชาญด้านการชิมกาแฟ (Q-Grader) ที่กลับมาพัฒนาบ้านเกิด
+  is_romanceable: true
+
+# Special / Hidden Characters (ตัวละครพิเศษ)
+- name: ท่านพระครู (Phra Kru)
+  role: Monk/Abbot
+  personality: สงบ, มีเมตตา, เทศน์เก่ง
+  description: เจ้าอาวาสวัดดอยหลวง ให้คำปรึกษาทางธรรมและรับของทำบุญ
+  is_romanceable: false
+
+- name: กล้า (Kla)
+  role: Naughty Kid
+  personality: ซน, วิ่งเร็ว, อยากรู้อยากเห็น
+  description: เด็กแสบประจำหมู่บ้าน ชอบแอบเข้าไปเล่นในฟาร์มและให้เควสป่วนๆ
+  is_romanceable: false
+
+- name: ลุงพิง (Uncle Ping)
+  role: Fisherman
+  personality: ขี้เกียจ, ใจเย็น, ขี้โม้
+  description: นักตกปลาที่มักหลับอยู่ริมลำธาร สอนวิธีตกปลาหายาก
+  is_romanceable: false
+
+- name: เจ้าสัวน้อย (Jao Noi)
+  role: Investor
+  personality: หยิ่ง, รวย, มองหาลู่ทางธุรกิจ
+  description: นักธุรกิจที่มาดูที่ดิน (อาจเป็นตัวร้ายในช่วงแรก)
+  is_romanceable: false
+
+- name: ผีเป้า (Phi Pao)
+  role: Spirit
+  personality: ขี้เล่น, หายตัวได้, ชอบของหวาน
+  description: วิญญาณเด็กน้อยประจำหมู่บ้าน จะปรากฏตัวเฉพาะตอนกลางคืนหรือในงานบุญ
+  is_romanceable: false

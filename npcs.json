@@ -1,0 +1,58 @@
+[
+    {
+        "name": "พ่ออุ้ยสอนจันทร์",
+        "role": "Mentor/Sage",
+        "personality": "ใจดี, รอบรู้, เคร่งประเพณี",
+        "description": "ผู้สอนระบบฟาร์ม",
+        "is_romanceable": false
+    },
+    {
+        "name": "อ้ายคำ",
+        "role": "Café Owner",
+        "personality": "เป็นกันเอง, ทันสมัย",
+        "description": "รับซื้อเมล็ดกาแฟ",
+        "is_romanceable": false
+    },
+    {
+        "name": "น้องแก้ว",
+        "role": "Teacher",
+        "personality": "อ่อนหวาน, รักวัฒนธรรม",
+        "description": "สอนภาษา/ประวัติศาสตร์",
+        "is_romanceable": true
+    },
+    {
+        "name": "แม่ค้าตลาด",
+        "role": "Merchant",
+        "personality": "ช่างคุย, รู้ข่าวสาร",
+        "description": "ขายเมล็ดพันธุ์/ของชำ",
+        "is_romanceable": false
+    },
+    {
+        "name": "ช่างไม้ประจำหมู่บ้าน",
+        "role": "Builder",
+        "personality": "เงียบขรึม, จริงใจ",
+        "description": "อัปเกรดบ้าน/โรงงาน",
+        "is_romanceable": false
+    },
+    {
+        "name": "ผู้เฒ่าเล่านิทาน",
+        "role": "Storyteller",
+        "personality": "ลึกลับ, ขี้เล่น",
+        "description": "ให้ข้อมูล Lore/ตำนาน",
+        "is_romanceable": false
+    },
+    {
+        "name": "เด็กหนุ่มนักท่องเที่ยว",
+        "role": "Tourist",
+        "personality": "ร่าเริง, ขี้สงสัย",
+        "description": "เควสเกี่ยวกับการท่องเที่ยว",
+        "is_romanceable": true
+    },
+    {
+        "name": "เด็กสาวชาวบ้าน",
+        "role": "Local Girl",
+        "personality": "แก่นแก้ว, สู้งาน",
+        "description": "เพื่อนสนิท/คู่แข่งทำไร่",
+        "is_romanceable": true
+    }
+]
