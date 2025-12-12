@@ -125,7 +125,7 @@
 
 ## 6. CHARACTER DESIGN (NPCs)
 
-### 6.1 Core NPCs (8 Characters)
+### 6.1 Core NPCs 
 
 | ชื่อ (Name) | บทบาท (Role) | Personality | หมายเหตุ |
 #### data/npc_data.yaml
